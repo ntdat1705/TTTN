@@ -1,0 +1,20 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "D:/filecaidat/esp/esp-setup/components/bootloader/subproject",
+    "build_dir":          "D:/TienDat/esp32/TTTN/build/bootloader",
+    "config_file":        "D:/TienDat/esp32/TTTN/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v4.3.1-dirty",
+    "target":             "esp32",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "xtensa-esp32-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "D:/filecaidat/esp/esp-setup/components/efuse/Kconfig;D:/filecaidat/esp/esp-setup/components/esp32/Kconfig;D:/filecaidat/esp/esp-setup/components/esp_common/Kconfig;D:/filecaidat/esp/esp-setup/components/esp_system/Kconfig;D:/filecaidat/esp/esp-setup/components/log/Kconfig;D:/filecaidat/esp/esp-setup/components/newlib/Kconfig;D:/filecaidat/esp/esp-setup/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "D:/filecaidat/esp/esp-setup/components/bootloader/Kconfig.projbuild;D:/filecaidat/esp/esp-setup/components/esptool_py/Kconfig.projbuild;D:/filecaidat/esp/esp-setup/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32", "esp_common", "esp_hw_support", "esp_rom", "esp_system", "esptool_py", "hal", "log", "main", "micro-ecc", "newlib", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "D:/filecaidat/esp/esp-setup/components/bootloader", "D:/filecaidat/esp/esp-setup/components/bootloader_support", "D:/filecaidat/esp/esp-setup/components/efuse", "D:/filecaidat/esp/esp-setup/components/esp32", "D:/filecaidat/esp/esp-setup/components/esp_common", "D:/filecaidat/esp/esp-setup/components/esp_hw_support", "D:/filecaidat/esp/esp-setup/components/esp_rom", "D:/filecaidat/esp/esp-setup/components/esp_system", "D:/filecaidat/esp/esp-setup/components/esptool_py", "D:/filecaidat/esp/esp-setup/components/hal", "D:/filecaidat/esp/esp-setup/components/log", "D:/filecaidat/esp/esp-setup/components/bootloader/subproject/main", "D:/filecaidat/esp/esp-setup/components/bootloader/subproject/components/micro-ecc", "D:/filecaidat/esp/esp-setup/components/newlib", "D:/filecaidat/esp/esp-setup/components/partition_table", "D:/filecaidat/esp/esp-setup/components/soc", "D:/filecaidat/esp/esp-setup/components/spi_flash", "D:/filecaidat/esp/esp-setup/components/xtensa", "" ]
+}

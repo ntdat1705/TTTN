@@ -1,0 +1,7 @@
+source "D:/filecaidat/esp/esp-setup/components/efuse/Kconfig"
+source "D:/filecaidat/esp/esp-setup/components/esp32/Kconfig"
+source "D:/filecaidat/esp/esp-setup/components/esp_common/Kconfig"
+source "D:/filecaidat/esp/esp-setup/components/esp_system/Kconfig"
+source "D:/filecaidat/esp/esp-setup/components/log/Kconfig"
+source "D:/filecaidat/esp/esp-setup/components/newlib/Kconfig"
+source "D:/filecaidat/esp/esp-setup/components/spi_flash/Kconfig"

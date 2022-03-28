@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/TienDat/esp32/TTTN/build/CMakeFiles/bootloader
+D:/TienDat/esp32/TTTN/build/CMakeFiles/bootloader.rule
+D:/TienDat/esp32/TTTN/build/CMakeFiles/bootloader-complete.rule
+D:/TienDat/esp32/TTTN/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/TienDat/esp32/TTTN/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/TienDat/esp32/TTTN/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/TienDat/esp32/TTTN/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+D:/TienDat/esp32/TTTN/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/TienDat/esp32/TTTN/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/TienDat/esp32/TTTN/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
